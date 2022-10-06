@@ -68,4 +68,4 @@ else:
  
 
 # Results and Output : 
- 
+ Thus the poisson distribution for the arrival of objects per minute from the feeder is fitted.
